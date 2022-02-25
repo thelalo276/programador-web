@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase; /*mayuscula*/
+    text-align: center;/*el texto esta centrado*/
+}
+h2{
+ text-transform: uppercase;/*mayuscula*/
+ color: blue;
+}p{
+    color: red;
+}
+
+/*clases*/ 
+.destacados{
+ color: green;
+ font-weight: bold;
+}
+#amarillo{
+ background-color: yellow;
+
+}
+#verde{
+    background-color: green;
+   }
+  img{
+    filter: blur(6px);
+  } 
+  img:hover{
+    filter: blur(0px);
+  }

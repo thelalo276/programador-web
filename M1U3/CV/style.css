@@ -1,0 +1,29 @@
+h1{
+    color: black;
+    text-align: center;
+  }
+
+.box{
+  display: flex;
+  justify-content: center; 
+  filter: blur(6px);
+}
+.box:hover{
+  filter: blur(0px);
+}
+h2{
+  text-transform: uppercase;
+  color: cyan;
+}
+ul{
+  background-color: yellow;
+}
+.blackbox{
+  background-color: black;
+  width: 100%;
+  border: solid #3333 10px
+}
+h5{
+  color: azure;
+  text-align: center;
+}
